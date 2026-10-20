@@ -3,7 +3,7 @@
 > **Portal Web Centralizado de Recursos Tecnológicos y Herramientas de Programación**  
 > Proyecto formativo colaborativo desarrollado para la carrera de **Tecnologías de la Información / Desarrollo de Software** de **SENATI**.
 
-[![GitHub Pages](https://img.shields.io/badge/Despliegue-GitHub%20Pages-00d2ff?style=for-the-badge&logo=github)](https://JoseGuisadoNuevo87762.github.io/HUB_SENATI/)
+[![GitHub Pages](https://img.shields.io/badge/Despliegue-GitHub%20Pages-00d2ff?style=for-the-badge&logo=github)](https://github.com/JeffersonGTSENATI02/HUB_SENATI.git)
 [![Licencia](https://img.shields.io/badge/Licencia-Educativa%20SENATI-005691?style=for-the-badge)](LICENSE)
 [![Código Abierto](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-10b981?style=for-the-badge)](INDEX.html)
 
@@ -97,7 +97,7 @@ git push -u origin na-pariona-dev4
 ```
 
 ### 4. Revisión de Código y Merge
-1. Ingresar al repositorio en GitHub: [https://github.com/JoseGuisadoNuevo87762/HUB_SENATI](https://github.com/JoseGuisadoNuevo87762/HUB_SENATI).
+1. Ingresar al repositorio en GitHub: [https://github.com/JeffersonGTSENATI02/HUB_SENATI.git]
 2. Hacer clic en **Compare & pull request**.
 3. Describir las funciones incorporadas y asignar como revisor al líder técnico.
 4. Tras la aprobación de las pruebas de QA, realizar el **Merge pull request** hacia la rama `main`.
@@ -110,7 +110,7 @@ Para visualizar y trabajar en el proyecto desde tu computadora:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/JoseGuisadoNuevo87762/HUB_SENATI.git
+   git clone https://github.com/JeffersonGTSENATI02/HUB_SENATI.git
    ```
 
 2. **Visualizar la aplicación**:
@@ -127,7 +127,7 @@ La plataforma está configurada para alojarse de forma gratuita y pública media
 2. En la sección **Branch**, seleccionar la rama `main` y la carpeta `/ (root)`.
 3. Hacer clic en **Save**.
 4. En cuestión de minutos, el portal estará en línea en la URL oficial:
-   👉 **`https://JoseGuisadoNuevo87762.github.io/HUB_SENATI/`**
+   👉 **`https://github.com/JeffersonGTSENATI02/HUB_SENATI.git`**
 
 ---
 
